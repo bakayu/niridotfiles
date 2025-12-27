@@ -1,0 +1,41 @@
+{
+  "asusControlCenter": {
+    "enabled": true
+  },
+  "commandRunner": {
+    "enabled": true
+  },
+  "dankBatteryAlerts": {
+    "enabled": true
+  },
+  "dankDesktopWeather": {
+    "enabled": true
+  },
+  "easyEffects": {
+    "enabled": false
+  },
+  "emojiLauncher": {
+    "enabled": false
+  },
+  "linuxWallpaperEngine": {
+    "enabled": false
+  },
+  "mediaPlayer": {
+    "enabled": true
+  },
+  "powerUsagePlugin": {
+    "enabled": true
+  },
+  "appShortcut": {
+    "enabled": true
+  },
+  "calculator": {
+    "enabled": true
+  },
+  "dankActions": {
+    "enabled": false
+  },
+  "dankHooks": {
+    "enabled": false
+  }
+}

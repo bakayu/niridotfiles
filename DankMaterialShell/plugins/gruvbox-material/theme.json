@@ -1,0 +1,19 @@
+{
+  "name": "gruvbox",
+  "surface": "#141617",
+  "surfaceVariant": "#1d2021",
+  "background": "#1d2021",
+  "surfaceContainer": "#282828",
+  "surfaceContainerHigh": "#3c3836",
+  "surfaceContainerHighest": "#504945",
+  "primaryText": "#141617",
+  "surfaceTint": "#333e34",
+  "outline": "#a89984",
+  "primary": "#a8b665",
+  "secondary": "#d7a657",
+  "primaryContainer": "#a8b665",
+  "error": "#e96962",
+  "warning": "#e68a4e",
+  "info": "#d7a657",
+  "matugen_type": "scheme-tonal-spot"
+}
